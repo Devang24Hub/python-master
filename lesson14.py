@@ -1,0 +1,9 @@
+lang=["pyhton","c++","java","python"]
+lang.append("javasacript")
+print(lang)
+lang.remove("java")
+print(lang)
+lang.sort()
+print(lang)
+print(lang.count("python"))
+print(len(lang))
